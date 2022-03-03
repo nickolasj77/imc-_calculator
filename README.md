@@ -1,2 +1,1 @@
-# imc-_calculator
-imc_calculator
+This program calculates your IMC index via Python :)
